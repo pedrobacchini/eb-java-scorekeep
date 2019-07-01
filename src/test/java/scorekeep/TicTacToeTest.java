@@ -9,6 +9,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import org.junit.jupiter.api.Test;
+import scorekeep.config.Rules;
+import scorekeep.config.TicTacToe;
 
 class TicTacToeTest {
   private static final Logger logger = LoggerFactory.getLogger(TicTacToe.class);
